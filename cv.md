@@ -1,5 +1,5 @@
 # Alena Frolova
-![foto](\image.png)
+![foto](/image.png)
 
 ### Contacts for communication:
 * **tel:** +7-950-891-91-76;
