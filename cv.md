@@ -1,5 +1,5 @@
 # Alena Frolova
-![foto](C:\Users\Alena\Desktop\Proect\rsschool-cv\image.png)
+![foto](\image.png)
 
 ### Contacts for communication:
 * **tel:** +7-950-891-91-76;
