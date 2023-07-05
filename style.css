@@ -62,11 +62,14 @@ justify-content: space-between;
 align-items: center;
 }
 
+.code {
+    word-break: break-all;
+}
 .block {
     padding: 15px 20px;
     margin-bottom: 20px;
     border-radius: 20px;
-    word-break: break-all;
+    
 }
 
 .block h2 {
